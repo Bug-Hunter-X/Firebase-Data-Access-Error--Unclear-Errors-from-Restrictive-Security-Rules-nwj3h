@@ -1,0 +1,1 @@
+The Firebase SDK might throw an error if the rules in your Firebase project are too restrictive and prevent the client from accessing or modifying data.  This can lead to unexpected behavior, where everything seems set up correctly, but data isn't being written or read.  The error messages aren't always clear. For example, you may get a generic network error or a silent failure.
